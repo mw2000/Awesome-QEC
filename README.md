@@ -10,3 +10,7 @@ with minimum-weight perfect matching](https://arxiv.org/pdf/2105.13082.pdf)
 
 ### Repos
 1. [Stim: A fast stabilizer circuit library](https://github.com/quantumlib/Stim)
+
+### Videos/Lectures
+1. [Introduction to Topological Order, Demonstration via the Toric Code
+](https://youtu.be/Rs2NMe4Lsbw)

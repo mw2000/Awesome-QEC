@@ -7,6 +7,7 @@ A list of resources (mainly papers) for Quantum Error Correction.
 with minimum-weight perfect matching](https://arxiv.org/pdf/2105.13082.pdf)
 3. [A Game of Surface Codes: Large-Scale Quantum Computing with Lattice Surgery](https://www.arxiv-vanity.com/papers/1808.02892/)
 4. [Quantum circuits for toric code and X-cube fracton model](https://arxiv.org/pdf/2210.01682.pdf)
+5. [Elementary gates of ternary quantum logic circuit](https://arxiv.org/pdf/1105.5485.pdf)
 
 ### Repos
 1. [Stim: A fast stabilizer circuit library](https://github.com/quantumlib/Stim)

@@ -10,6 +10,7 @@ with minimum-weight perfect matching](https://arxiv.org/pdf/2105.13082.pdf)
 5. [Elementary gates of ternary quantum logic circuit](https://arxiv.org/pdf/1105.5485.pdf)
 6. [Optimal Error Correcting Code For
 Ternary Quantum Systems](https://arxiv.org/pdf/1906.11137.pdf)
+7. [Fault-Tolerant Weighted Union-Find Decoding on the Toric Code](https://arxiv.org/pdf/2004.04693.pdf)
 
 ### Repos
 1. [Stim: A fast stabilizer circuit library](https://github.com/quantumlib/Stim)
